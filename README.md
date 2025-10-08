@@ -1,6 +1,6 @@
 # ![Hello](https://www.imagensanimadas.com/data/media/209/gato-imagem-animada-0305.gif) Olá! Eu sou Carina Cristina Teixeira De souza
-![gif](https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0521.gif)
-Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitHub**, **programação** e **criação de projetos web e mobile**. Tenho interesse especial em :Java,Front-End, Back-End e Mobile.].
+![gif](https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0289.gif)
+Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitHub**, **programação** e **criação de projetos web e mobile**. Tenho interesse especial em :Java,Front-End, Back-End e Mobile.
 
 ---
 
