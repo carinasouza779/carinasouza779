@@ -1,12 +1,12 @@
 # ![Hello](https://www.imagensanimadas.com/data/media/1250/hello-kitty-imagem-animada-0121.gif) Olá! Eu sou Carina Cristina Teixeira De souza
-
-![gif](https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0289.gif) ![gi](https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0289.gif)![ci](https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0289.gif)
+-![kitty](https://lh6.ggpht.com/_iaCLYPyXFeQ/Sb6hTvdJ3-I/AAAAAAAAB-Y/G0N97rLfLMw/s400/hellokitty36.png)
 
 
 
 
 Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitHub**, **programação** e **criação de projetos web e mobile**. Tenho interesse especial em :Java,Front-End, Back-End e Mobile.
--------------------------------![kitty](https://lh6.ggpht.com/_iaCLYPyXFeQ/Sb6hTvdJ3-I/AAAAAAAAB-Y/G0N97rLfLMw/s400/hellokitty36.png)------------------------------------------------------------------------
+![gif](https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0289.gif) ![gi](https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0289.gif)![ci](https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0289.gif)
+
 
 
 
