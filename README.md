@@ -4,9 +4,9 @@
 Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitHub**, **programação** e **criação de projetos web e mobile**. Tenho interesse especial em :Java,Front-End, Back-End e Mobile.
 
 
-![gif](https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0289.gif)
+![gif](https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0289.gif) ![gi](https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0289.gif)
 
----
+
 
 ## ![cat](https://lh3.ggpht.com/_BJo2sJZzI3g/SZL5MHIwKNI/AAAAAAAADFM/nfrmwUF0WGA/s400/hellokitty3.gif) Tecnologias que estou aprendendo
 
