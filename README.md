@@ -11,7 +11,7 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 
 ## ![cat](https://lh3.ggpht.com/_BJo2sJZzI3g/SZL5MHIwKNI/AAAAAAAADFM/nfrmwUF0WGA/s400/hellokitty3.gif) Tecnologias que estou aprendendo
 
-### ![computador(https://www.imagensanimadas.com/data/media/56/computador-imagem-animada-0462.gif)Front-End
+### ![computador(https://www.imagensanimadas.com/data/media/56/computador-imagem-animada-0462.gif).Front-End
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -58,6 +58,6 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 ## ![eu](https://lh4.ggpht.com/_BJo2sJZzI3g/SZL4sFepdoI/AAAAAAAADE8/9bHeSA2_mUQ/s400/hellokitty1.png) Como me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/seuusuario)  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/carinacristina35?igsh=ZmdhZGk2MXp0ZWx0))  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/carinasouza779))
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/carinacristina35?igsh=ZmdhZGk2MXp0ZWx0)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/carinasouza779)
 
