@@ -1,4 +1,4 @@
-# ![Hello](https://www.imagensanimadas.com/data/media/209/gato-imagem-animada-0305.gif) Olá! Eu sou Carina Cristina Teixeira De souza
+# ![Hello](https://tenor.com/pt-BR/view/sanrio-cute-my-melody-pink-tea-cup-gif-14434499469075618385) Olá! Eu sou Carina Cristina Teixeira De souza
 ![gif](https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0289.gif)
 
 
