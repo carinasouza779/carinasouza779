@@ -1,12 +1,12 @@
-# ![Hello](https://lh3.ggpht.com/_BJo2sJZzI3g/SZL5MHIwKNI/AAAAAAAADFM/nfrmwUF0WGA/s400/hellokitty3.gif) Olá! Eu sou Carina Cristina Teixeira De souza
-![gif](https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0289.gif)
-
+# ![Hello](https://www.imagensanimadas.com/data/media/1250/hello-kitty-imagem-animada-0121.gif) Olá! Eu sou Carina Cristina Teixeira De souza
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
 Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitHub**, **programação** e **criação de projetos web e mobile**. Tenho interesse especial em :Java,Front-End, Back-End e Mobile.
+![gif](https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0289.gif)
 
 ---
 
-## 🎯 Tecnologias que estou aprendendo
+## ![cat](https://lh3.ggpht.com/_BJo2sJZzI3g/SZL5MHIwKNI/AAAAAAAADFM/nfrmwUF0WGA/s400/hellokitty3.gif) Tecnologias que estou aprendendo
 
 ### Front-End
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
